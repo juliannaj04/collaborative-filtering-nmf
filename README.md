@@ -11,7 +11,6 @@ This project addresses the sparse data problem in recommendation systems by comp
 -   Fill missing entries in the user-item rating matrix using collaborative filtering
 -   Compare prediction accuracy between SVD and NMF methods
 -   Generate personalized movie recommendations for users
--   Output complete rating matrices for downstream analysis
 
 ## Methodology
 
