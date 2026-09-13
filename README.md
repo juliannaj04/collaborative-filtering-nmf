@@ -6,12 +6,6 @@ A machine learning project that predicts missing Netflix movie ratings using two
 
 This project addresses the sparse data problem in recommendation systems by completing an incomplete user-item rating matrix. With 92% sparsity (14,328 users, 150 movies), the goal is to fill missing entries and generate personalized movie recommendations.
 
-## Objectives
-
--   Fill missing entries in the user-item rating matrix using collaborative filtering
--   Compare prediction accuracy between SVD and NMF methods
--   Generate personalized movie recommendations for users
-
 ## Methodology
 
 ### Data Preparation
